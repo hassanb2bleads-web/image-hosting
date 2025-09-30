@@ -1,0 +1,94 @@
+📌 Case Study: Cold Email Campaign for Joel – Corduroy Marketing
+🧠 Client Background
+
+Name: Joel Reader
+Business Name: Corduroy Marketing
+Industry: Marketing & Lead Generation (Niche: Kitchen Remodeling Contractors)
+Service: Corduroy Marketing helps kitchen remodeling companies land high-ticket contracts through performance-based lead generation strategies. Joel's unique offer includes delivering 3–12 remodel contracts in 30 days, with a no-risk guarantee — if they don’t close, his team keeps working for free.
+
+🎯 Client Goals
+
+Reach out to decision-makers at kitchen remodeling companies across the U.S./Canada.
+
+Build a repeatable cold outreach system to offer his lead generation service.
+
+Generate qualified conversations that could turn into high-ticket sales (each worth several thousand dollars).
+
+Highlight social proof (e.g., RocArtz example: 48–53 leads in 30 days).
+
+Emphasize a risk-free offer to reduce friction in the sales process.
+
+⚠️ Challenges Joel Faced
+
+No existing cold outreach system.
+
+Needed consistent pipeline of high-value kitchen remodeling clients.
+
+Struggled to position the offer compellingly in cold emails without sounding salesy.
+
+Wanted to avoid generic emails and instead use personalized, curiosity-driven copy.
+
+🛠️ Our Solution
+
+We designed a 4-step cold email campaign targeting kitchen remodeling business owners and managers with a combination of:
+
+Direct, curiosity-driven, and social proof-heavy email variants.
+
+Focused messaging around pain points (e.g., inconsistent project pipeline).
+
+Strong CTA with a "risk-free" and results-first pitch.
+
+Used dynamic fields like {{firstName}}, {{CompanyName}} to increase personalization.
+
+Sourced a high-quality list of remodelers using custom scraping filters (location, service focus, company size, etc.)
+
+📬 Cold Email Campaign Structure
+
+Campaign Type: 4-Step Outreach + 1 Final Follow-Up
+Tools Used: [Insert tools here, e.g., Lemlist, Instantly, Apollo, Google Sheets]
+Target Audience: Kitchen remodeling business owners / sales managers
+Sequence Highlights:
+
+Step 1: Pain point-focused + result-driven intro
+
+Step 2: FOMO-based follow-up with social proof
+
+Step 3: Soft pitch with optional video breakdown
+
+Step 4: Final follow-up with risk-free CTA
+
+📊 Results
+
+Emails Sent: 35,000
+
+Open Rate: 86.07% 🚀 (industry average: ~40–50%)
+
+Click Rate: 0.46%
+
+Reply Rate: 1.18% (warm leads in high-ticket B2B)
+
+Opportunities Created: 17
+
+Estimated Pipeline Value: $34,000+
+
+✅ Outcome
+
+Joel successfully:
+
+Booked 17 qualified opportunities with kitchen remodeling companies.
+
+Filled his sales calendar with high-intent prospects.
+
+Generated an estimated $34,000 in potential revenue from one cold campaign.
+
+Now has a scalable outreach engine that can be duplicated for future campaigns or niches.
+
+🧩 Key Takeaways
+
+Personalized, niche-specific outreach beats generic email blasts.
+
+Offering risk-free, results-based guarantees reduces objections and increases replies.
+
+Clear social proof (like RocArtz's success) builds immediate trust.
+
+Cold email is still highly effective for B2B high-ticket services when done with strategy and empathy.
