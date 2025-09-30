@@ -1,0 +1,65 @@
+🔥 Cold Outreach Case Study: 32 Qualified Speakers Booked for Faith-Based Virtual Summit
+🧑‍💼 Client
+
+Sharon Jackson, Host of the “Faith, Wealth & Love” Virtual Summit (September 2025)
+Industry: Faith-based entrepreneurship, women empowerment
+
+❌ The Challenge
+
+Client urgently needed 21 qualified speakers for an upcoming online summit within 4 weeks.
+
+Had no existing speaker list, outreach system, or idea that cold email could deliver real results.
+
+Wanted high-quality, faith-aligned thought leaders — not random signups.
+
+✅ My Solution
+
+I executed a targeted cold outreach campaign combining smart automation with manual personalization.
+
+Key Steps:
+
+Scraped & enriched 793+ speaker leads (authors, coaches, podcasters).
+
+Wrote and launched a 6-email cold sequence (value-driven, personalized).
+
+Managed the campaign through Instantly.ai.
+
+Personally handled warm replies & follow-ups to build trust.
+
+⚙️ Tools Used
+
+Instantly.ai – Campaign management
+
+Manual scraping & Google Sheets – Lead sourcing
+
+ChatGPT & Custom Copywriting – Email content
+
+LinkedIn (secondary outreach) – Added touchpoint
+
+📸 Visual Proof
+Screenshot	File Name	Purpose
+📊 Campaign Overview (Stats)	1_instantly_campaign_overview.png	Shows opens (60.7%), replies (21.79%)
+📧 Email Sequence (6-email flow)	2_email_sequence_breakdown.png	Strategy, copy, and structure
+💬 Speaker Reply Example	3_speaker_reply_sample_1.png	Real interest & lead quality proof
+📈 Results
+Metric	Value
+Emails Sent	793
+Open Rate	60.7%
+Reply Rate	21.79%
+Confirmed Speakers	32
+Target Speakers	21
+Outcome	+52% Over Target
+🎯 Impact
+
+Client exceeded speaker goal by 52%
+
+Summit lineup completed 2 weeks early
+
+All speakers were niche-relevant & high-quality
+
+Created a reusable cold email system for future events
+
+🧠 Key Takeaway
+
+This project proved that with the right targeting, message, and tools, cold outreach isn’t cold — it converts.
+Even without a warm list, I delivered real business outcomes, fast.
